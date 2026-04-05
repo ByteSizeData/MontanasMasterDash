@@ -1200,8 +1200,8 @@
     "dueDate": "2026-04-06T23:59",
     "type": "quiz",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Exams. Covers Chapters 4 & 5. Worth 60 pts.",
-    "notes": "60 pts. Study Ch 4 (Social Interaction) & Ch 5 (Social Groups). Review lecture PowerPoints.",
+    "hints": "Course \u2192 Assignments \u2192 Exam 2. Chapters 3-6. Use textbook and notes.",
+    "notes": "60 pts. Covers Chapters 3-6. Open book/open note. Review lectures, readings, discussions.",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -1239,7 +1239,7 @@
     "type": "quiz",
     "link": "https://bb.luna.edu",
     "hints": "Course \u2192 Exams. Worth 65 pts.",
-    "notes": "65 pts. Review lectures and chapter readings. Study Social Stratification material.",
+    "notes": "65 pts. Review all remaining material. Use textbook and notes.",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -1399,6 +1399,18 @@
         "done": false
       }
     ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_ec_brain_breaks",
+    "name": "Extra Credit \u2014 Brain Breaks",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-05-07T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Assignments \u2192 Extra Credit Brain Breaks.",
+    "notes": "EXTRA CREDIT. Easy points \u2014 do it!",
+    "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   }
 ]
