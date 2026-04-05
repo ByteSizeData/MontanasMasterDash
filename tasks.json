@@ -1762,5 +1762,285 @@
     "notes": "5 pts. Schedule live meeting with Dr. Mathews to select topic.",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch3_hw",
+    "name": "Chapter 3 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-08T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 3.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_disc_data",
+    "name": "Data in the News Discussion \u2014 Interpreting Visualizations",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-09T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Discussion Board \u2192 Data in the News.",
+    "notes": "",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch41_hw",
+    "name": "Chapter 4.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-10T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 4.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch42_hw",
+    "name": "Chapter 4.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-12T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 4.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch51_hw",
+    "name": "Chapter 5.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-14T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 5.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch52_hw",
+    "name": "Chapter 5.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-16T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 5.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch53_hw",
+    "name": "Chapter 5.3 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-18T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 5.3.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_test_ch35",
+    "name": "Ch 3-5 Test",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-20T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Tests \u2192 Ch 3-5 Test. Covers Chapters 3, 4, and 5.",
+    "notes": "Major test \u2014 review all Ch 3-5 homework first.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch61_hw",
+    "name": "Chapter 6.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-21T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 6.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch62_hw",
+    "name": "Chapter 6.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-23T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 6.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch63_hw",
+    "name": "Chapter 6.3 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-25T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 6.3.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_test_ch6",
+    "name": "Chapter 6 Test",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-27T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Tests \u2192 Chapter 6 Test.",
+    "notes": "Review all Ch 6 homework first.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch71_hw",
+    "name": "Chapter 7.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-28T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 7.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch72_hw",
+    "name": "Chapter 7.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-30T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 7.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch73_hw",
+    "name": "Chapter 7.3 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-01T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 7.3.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch74_hw",
+    "name": "Chapter 7.4 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-02T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 7.4.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_test_ch7",
+    "name": "Chapter 7 Test",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-04T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Tests \u2192 Chapter 7 Test.",
+    "notes": "Review all Ch 7 homework first.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch91_hw",
+    "name": "Chapter 9.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-05T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 9.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch92_hw",
+    "name": "Chapter 9.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-06T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 9.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_disc_looking_back",
+    "name": "Looking Back at Statistics Discussion",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-06T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Discussion Board \u2192 Looking Back at Statistics.",
+    "notes": "Final discussion \u2014 reflect on course.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_final_test",
+    "name": "Final Test",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-08T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Tests \u2192 Final Test. Comprehensive final exam.",
+    "notes": "FINAL EXAM. Review all chapters and tests.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
   }
 ]
