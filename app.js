@@ -160,7 +160,7 @@ function renderTasks() {
           <div class="task-top">
             <span class="task-name">${esc(task.name)}</span>
             ${task.type ? `<span class="task-badge">${esc(task.type)}</span>` : ''}
-            ${task.course ? `<span class="task-course-badge">${esc(task.course)}</span>` : ''}
+            ${task.course ? `<span class="task-course-badge ${getCourseColorClass(task.course)}">${esc(task.course)}</span>` : ''}
           </div>
           <div class="task-meta">
             <span class="task-due-label ${dueLabelClass}">${dueLabel}</span>
@@ -337,5 +337,14 @@ function showToast(msg, type='') {
 function checkDateWarning() {
   const banner = document.getElementById('date-warning');
   if (banner) banner.style.display = 'flex';
+}
+function getCourseColorClass(course) {
+  if (!course) return '';
+  const c = course.toLowerCase();
+  if (c.includes('psyc')) return 'course-psyc';
+  if (c.includes('soci')) return 'course-soci';
+  if (c.includes('math') || c.includes('stat')) return 'course-math';
+  if (c.includes('musc') || c.includes('music')) return 'course-musc';
+  return '';
 }
 function esc(s) { const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }

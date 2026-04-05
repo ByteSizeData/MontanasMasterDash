@@ -6,13 +6,22 @@
     "dueDate": "2026-04-12T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Discussion Board → Week 4. Part 1: Positive reinforcement vs punishment. Part 2: Children's eyewitness reliability. Post by Wed 11:59pm, reply to 2 students.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 4. Part 1: Positive reinforcement vs punishment. Part 2: Children's eyewitness reliability. Post by Wed 11:59pm, reply to 2 students.",
     "notes": "Min 3 sentences per question. Cite textbook (Myers & DeWall). Respond to 2 classmates with prompts like 'I agree because...', 'I wonder...', etc.",
     "completed": false,
     "subtasks": [
-      {"label": "Initial Post", "done": false},
-      {"label": "Reply 1", "done": false},
-      {"label": "Reply 2", "done": false}
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
     ],
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -23,11 +32,14 @@
     "dueDate": "2026-04-05T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Discussion Board → Psychological Movie Assignment. Post your movie choice. Wait for instructor approval (1 point = approved).",
+    "hints": "Course \u2192 Discussion Board \u2192 Psychological Movie Assignment. Post your movie choice. Wait for instructor approval (1 point = approved).",
     "notes": "Review the video questions before choosing. If 0 points, choose a different movie and reply again.",
     "completed": false,
     "subtasks": [
-      {"label": "Post movie choice", "done": false}
+      {
+        "label": "Post movie choice",
+        "done": false
+      }
     ],
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -38,8 +50,8 @@
     "dueDate": "2026-04-12T23:59",
     "type": "quiz",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Exams → Midterm Exam. Worth 50 pts. Covers Chapters 1-8.",
-    "notes": "50 points — biggest grade item so far. Study all chapter practice quizzes.",
+    "hints": "Course \u2192 Exams \u2192 Midterm Exam. Worth 50 pts. Covers Chapters 1-8.",
+    "notes": "50 points \u2014 biggest grade item so far. Study all chapter practice quizzes.",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -50,7 +62,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -62,7 +74,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -74,7 +86,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -86,7 +98,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -98,7 +110,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -110,7 +122,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -122,7 +134,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -134,7 +146,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -146,7 +158,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -158,7 +170,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -170,7 +182,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -182,7 +194,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -194,7 +206,7 @@
     "dueDate": "2026-04-12T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 4 assignments",
+    "hints": "Achieve \u2192 Week 4 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -206,13 +218,22 @@
     "dueDate": "2026-04-19T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Discussion Board → Week 5. Part 1: Is language unique to humans? Part 2: Intelligence test bias & stereotype threat + take Gardner's Multiple Intelligence test. Post by Wed, reply to 2 students.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 5. Part 1: Is language unique to humans? Part 2: Intelligence test bias & stereotype threat + take Gardner's Multiple Intelligence test. Post by Wed, reply to 2 students.",
     "notes": "Min 3 sentences per question. Cite textbook. Take the Multiple Intelligence test at the link and share top 2 results.",
     "completed": false,
     "subtasks": [
-      {"label": "Initial Post", "done": false},
-      {"label": "Reply 1", "done": false},
-      {"label": "Reply 2", "done": false}
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
     ],
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -223,8 +244,8 @@
     "dueDate": "2026-04-19T23:59",
     "type": "assignment",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Orientation and Checkpoint Surveys → Checkpoint Survey 2",
-    "notes": "5 pts — easy survey",
+    "hints": "Course \u2192 Orientation and Checkpoint Surveys \u2192 Checkpoint Survey 2",
+    "notes": "5 pts \u2014 easy survey",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -235,8 +256,8 @@
     "dueDate": "2026-04-19T23:59",
     "type": "assignment",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Psychological Paper Movie Rough Draft Assignment",
-    "notes": "25 pts — Submit rough draft of your psychological movie paper",
+    "hints": "Course \u2192 Psychological Paper Movie Rough Draft Assignment",
+    "notes": "25 pts \u2014 Submit rough draft of your psychological movie paper",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -247,7 +268,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -259,7 +280,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -271,7 +292,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -283,7 +304,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -295,7 +316,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -307,7 +328,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -319,7 +340,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -331,7 +352,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -343,7 +364,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -355,7 +376,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -367,7 +388,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -379,7 +400,7 @@
     "dueDate": "2026-04-19T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 5 assignments",
+    "hints": "Achieve \u2192 Week 5 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -391,13 +412,22 @@
     "dueDate": "2026-04-26T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Discussion Board → Week 6. Part 1: Cultural/situational factors that influence hunger. Part 2: Gestures & facial expressions across cultures. Post by Wed, reply to 2 students.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 6. Part 1: Cultural/situational factors that influence hunger. Part 2: Gestures & facial expressions across cultures. Post by Wed, reply to 2 students.",
     "notes": "Min 3 sentences per question. Cite textbook. Respond to 2 classmates.",
     "completed": false,
     "subtasks": [
-      {"label": "Initial Post", "done": false},
-      {"label": "Reply 1", "done": false},
-      {"label": "Reply 2", "done": false}
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
     ],
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -408,7 +438,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -420,7 +450,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -432,7 +462,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -444,7 +474,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -456,7 +486,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -468,7 +498,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -480,7 +510,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -492,7 +522,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -504,7 +534,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -516,7 +546,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -528,7 +558,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -540,7 +570,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -552,7 +582,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -564,7 +594,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -576,7 +606,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -588,7 +618,7 @@
     "dueDate": "2026-04-26T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 6 assignments",
+    "hints": "Achieve \u2192 Week 6 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -600,13 +630,22 @@
     "dueDate": "2026-05-03T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Discussion Board → Week 7. Part 1: Groupthink examples from history. Part 2: Five-Factor Model — take test at openpsychometrics.org/tests/IPIP-BFFM/ and discuss results. Post by Wed, reply to 2 students.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 7. Part 1: Groupthink examples from history. Part 2: Five-Factor Model \u2014 take test at openpsychometrics.org/tests/IPIP-BFFM/ and discuss results. Post by Wed, reply to 2 students.",
     "notes": "Min 3 sentences per question. Cite textbook. Take the Big Five test and share results.",
     "completed": false,
     "subtasks": [
-      {"label": "Initial Post", "done": false},
-      {"label": "Reply 1", "done": false},
-      {"label": "Reply 2", "done": false}
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
     ],
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -617,8 +656,8 @@
     "dueDate": "2026-05-03T23:59",
     "type": "project",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Psychological Paper Movie Assignment",
-    "notes": "50 pts — MAJOR GRADE. Final version of the psychological movie paper.",
+    "hints": "Course \u2192 Psychological Paper Movie Assignment",
+    "notes": "50 pts \u2014 MAJOR GRADE. Final version of the psychological movie paper.",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -629,7 +668,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -641,7 +680,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -653,7 +692,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -665,7 +704,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -677,7 +716,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -689,7 +728,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -701,7 +740,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -713,7 +752,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -725,7 +764,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -737,7 +776,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -749,7 +788,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -761,7 +800,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -773,7 +812,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -785,7 +824,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -797,7 +836,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -809,7 +848,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -821,7 +860,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -833,7 +872,7 @@
     "dueDate": "2026-05-03T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 7 assignments",
+    "hints": "Achieve \u2192 Week 7 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -845,13 +884,22 @@
     "dueDate": "2026-05-08T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Discussion Board → Week 8. Part 1: Myths about mental illness. Part 2: Most effective therapy type. Part 3: Favorite chapter this semester. Post by Wed, reply to 2 students.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 8. Part 1: Myths about mental illness. Part 2: Most effective therapy type. Part 3: Favorite chapter this semester. Post by Wed, reply to 2 students.",
     "notes": "Min 3 sentences per question. Cite textbook. 3 parts this week! Respond to 2 classmates.",
     "completed": false,
     "subtasks": [
-      {"label": "Initial Post", "done": false},
-      {"label": "Reply 1", "done": false},
-      {"label": "Reply 2", "done": false}
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
     ],
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -862,8 +910,8 @@
     "dueDate": "2026-05-08T23:59",
     "type": "quiz",
     "link": "https://bb.luna.edu",
-    "hints": "Course → Exams → Final Exam. Worth 50 pts. Covers all chapters.",
-    "notes": "50 points — BIGGEST GRADE ITEM. Study all chapter quizzes and review notes.",
+    "hints": "Course \u2192 Exams \u2192 Final Exam. Worth 50 pts. Covers all chapters.",
+    "notes": "50 points \u2014 BIGGEST GRADE ITEM. Study all chapter quizzes and review notes.",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -874,7 +922,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -886,7 +934,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -898,7 +946,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -910,7 +958,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -922,19 +970,19 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
   {
     "id": "luna_psyc_w8_adhd",
-    "name": "Thinking Critically About: ADHD—Normal High Energy or Disordered Behavior?",
+    "name": "Thinking Critically About: ADHD\u2014Normal High Energy or Disordered Behavior?",
     "course": "PSYC-1110E - SP 2026",
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -946,7 +994,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "4 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -958,7 +1006,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -970,7 +1018,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -982,7 +1030,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -994,7 +1042,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1006,7 +1054,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1018,7 +1066,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1030,7 +1078,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1042,7 +1090,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1054,7 +1102,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "1 pt",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1066,7 +1114,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "quiz",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "5 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1078,7 +1126,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1090,7 +1138,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1102,7 +1150,7 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "2 pts",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
@@ -1114,152 +1162,8 @@
     "dueDate": "2026-05-08T12:59",
     "type": "assignment",
     "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 8 assignments",
+    "hints": "Achieve \u2192 Week 8 assignments",
     "notes": "3 pts",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_nervous",
-    "name": "⚠️ OVERDUE: Concept Practice: Divisions of the Nervous System",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-03-22T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 1. CHECK IF STILL ACCEPTED LATE.",
-    "notes": "2 pts — OVERDUE. Was due Mar 22.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_brain_scan",
-    "name": "⚠️ OVERDUE: Concept Practice: Scanning the Brain",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-03-22T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 1. CHECK IF STILL ACCEPTED LATE.",
-    "notes": "2 pts — OVERDUE. Was due Mar 22.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_cortex",
-    "name": "⚠️ OVERDUE: Concept Practice: The Cerebral Cortex",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-03-22T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 1. CHECK IF STILL ACCEPTED LATE.",
-    "notes": "2 pts — OVERDUE. Was due Mar 22.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_attention",
-    "name": "⚠️ OVERDUE: Concept Practice: Selective Attention and Multitasking",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-03-29T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 2. CHECK IF STILL ACCEPTED LATE.",
-    "notes": "1 pt — OVERDUE. Was due Mar 29.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_sleep_dep",
-    "name": "⚠️ OVERDUE: How Would You Know if Sleep Deprivation Affects Academic Performance?",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-03-29T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 2. CHECK IF STILL ACCEPTED LATE.",
-    "notes": "1 pt — OVERDUE. Was due Mar 29.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_sleep_stages",
-    "name": "⚠️ OVERDUE: Concept Practice: Stages of Sleep",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-03-29T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 2. CHECK IF STILL ACCEPTED LATE.",
-    "notes": "1 pt — OVERDUE. Was due Mar 29.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_drugs",
-    "name": "⚠️ OVERDUE: Concept Practice: Psychoactive Drugs",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-03-29T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 2. CHECK IF STILL ACCEPTED LATE.",
-    "notes": "1 pt — OVERDUE. Was due Mar 29.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_attachment",
-    "name": "⚠️ OVERDUE: Concept Practice: Attachment",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-04-05T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 3. DUE TODAY.",
-    "notes": "1 pt — Due today Apr 5.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_erikson",
-    "name": "⚠️ OVERDUE: Concept Practice: Erikson's Stages of Psychosocial Development",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-04-05T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 3. DUE TODAY.",
-    "notes": "1 pt — Due today Apr 5.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_children_happy",
-    "name": "⚠️ DUE TODAY: How Would You Know if Having Children Relates to Being Happier?",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-04-05T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 3. DUE TODAY.",
-    "notes": "1 pt — Due today Apr 5.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_eye",
-    "name": "⚠️ DUE TODAY: Concept Practice: Structure of the Eye",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-04-05T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 3. DUE TODAY.",
-    "notes": "2 pts — Due today Apr 5.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_psyc_overdue_coffee",
-    "name": "⚠️ DUE TODAY: How Would You Know if a Cup of Coffee Can Warm up Relationships?",
-    "course": "PSYC-1110E - SP 2026",
-    "dueDate": "2026-04-05T12:59",
-    "type": "assignment",
-    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
-    "hints": "Achieve → Week 3. DUE TODAY.",
-    "notes": "1 pt — Due today Apr 5.",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   }

@@ -147,6 +147,36 @@ footer { text-align: center; padding: 1.25rem 2rem; border-top: 1px solid var(--
 .footer-links a { color: var(--accent); text-decoration: none; }
 .footer-links a:hover { text-decoration: underline; }
 
+/* ===== Per-Course Color Coding ===== */
+/* Psychology — Purple/Violet */
+.course-psyc { --course-color: #a855f7; --course-bg: rgba(168,85,247,0.12); --course-border: rgba(168,85,247,0.35); }
+/* Sociology — Teal */
+.course-soci { --course-color: #14b8a6; --course-bg: rgba(20,184,166,0.12); --course-border: rgba(20,184,166,0.35); }
+/* Statistics — Blue */
+.course-math { --course-color: #3b82f6; --course-bg: rgba(59,130,246,0.12); --course-border: rgba(59,130,246,0.35); }
+/* Music — Orange/Amber */
+.course-musc { --course-color: #f59e0b; --course-bg: rgba(245,158,11,0.12); --course-border: rgba(245,158,11,0.35); }
+
+.task-course-badge.course-psyc { background: var(--course-bg); color: var(--course-color); border: 1px solid var(--course-border); }
+.task-course-badge.course-soci { background: rgba(20,184,166,0.12); color: #14b8a6; border: 1px solid rgba(20,184,166,0.35); }
+.task-course-badge.course-math { background: rgba(59,130,246,0.12); color: #3b82f6; border: 1px solid rgba(59,130,246,0.35); }
+.task-course-badge.course-musc { background: rgba(245,158,11,0.12); color: #f59e0b; border: 1px solid rgba(245,158,11,0.35); }
+
+/* Textbooks Section */
+.textbooks-section { padding: 1.25rem 2rem; border-top: 1px solid var(--border); }
+.textbooks-section h3 { font-size: 1rem; margin-bottom: 0.75rem; color: var(--text); }
+.textbook-cards { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+.textbook-card { display: flex; align-items: center; gap: 0.65rem; padding: 0.75rem 1rem; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none; color: var(--text); transition: all 0.15s; flex: 1; min-width: 220px; }
+.textbook-card:hover { border-color: var(--course-color, var(--accent)); transform: translateY(-2px); }
+.textbook-card.course-psyc { border-left: 4px solid #a855f7; }
+.textbook-card.course-soci { border-left: 4px solid #14b8a6; }
+.textbook-card.course-math { border-left: 4px solid #3b82f6; }
+.textbook-card.course-musc { border-left: 4px solid #f59e0b; }
+.textbook-icon { font-size: 1.5rem; }
+.textbook-info { display: flex; flex-direction: column; gap: 0.15rem; }
+.textbook-info strong { font-size: 0.88rem; }
+.textbook-info span { font-size: 0.75rem; color: var(--text-muted); }
+
 /* Date Warning Banner */
 .date-warning { display: flex; align-items: center; gap: 0.6rem; padding: 0.65rem 2rem; background: linear-gradient(90deg, #ff4757, #ff6b81); color: #fff; font-size: 0.85rem; font-weight: 500; animation: pulse-bg 2s ease-in-out infinite; }
 .warning-icon { font-size: 1.3rem; }
