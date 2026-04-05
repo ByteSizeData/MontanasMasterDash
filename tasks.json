@@ -1726,5 +1726,41 @@
     "notes": "10 pts/week. No work accepted past May 8!",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_vision_board",
+    "name": "Vision Board",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-03-27T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Assignments \u2192 Vision Board.",
+    "notes": "20 pts.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_success_plan",
+    "name": "A Plan of Action for Success in MUSC1130",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-03-27T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Assignments \u2192 Semester Success Plan.",
+    "notes": "28 pts.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_mmpp_topic",
+    "name": "MMPP Topic Selection",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-04-02T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 MMPP \u2192 Topic selection. Must meet live with instructor to choose topic before moving forward.",
+    "notes": "5 pts. Schedule live meeting with Dr. Mathews to select topic.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
   }
 ]
