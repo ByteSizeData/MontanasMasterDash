@@ -1174,8 +1174,8 @@
     "dueDate": "2026-04-06T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Discussion Board \u2192 Week 4. Follow discussion criteria from How to Write a Discussion Post document.",
-    "notes": "20 pts. Post + reply to classmates. Contact instructor at 505-429-5962 if questions.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 4. Topic: Social Construction of Reality. Why do people believe things without evidence? How do family/media/friends shape beliefs? Give a real-life example of a false belief. Min 1 paragraph (5-7 sentences). Reply to 1 classmate.",
+    "notes": "20 pts. Post + reply to 1 classmate. Agree/disagree, add perspective, ask a question.",
     "completed": false,
     "subtasks": [
       {
@@ -1183,11 +1183,7 @@
         "done": false
       },
       {
-        "label": "Reply 1",
-        "done": false
-      },
-      {
-        "label": "Reply 2",
+        "label": "Reply to Classmate",
         "done": false
       }
     ],
@@ -1212,8 +1208,8 @@
     "dueDate": "2026-04-13T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Discussion Board \u2192 Week 5.",
-    "notes": "20 pts. Post + reply to classmates.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 5. Topic: Positivity & Encouragement. Share an inspirational quote that motivates you. Explain why it inspires you. Optional: share encouraging words for classmates.",
+    "notes": "20 pts. Post + reply to 1 classmate. Lighter week \u2014 motivational discussion.",
     "completed": false,
     "subtasks": [
       {
@@ -1221,11 +1217,7 @@
         "done": false
       },
       {
-        "label": "Reply 1",
-        "done": false
-      },
-      {
-        "label": "Reply 2",
+        "label": "Reply to Classmate",
         "done": false
       }
     ],
@@ -1250,8 +1242,8 @@
     "dueDate": "2026-04-20T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Discussion Board \u2192 Week 6. Also start working on final movie paper this week!",
-    "notes": "20 pts. Post + reply to classmates. Read Chapters 6 & 7 by Thursday.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 6. Topic: Social Class & Life Chances. Does social class affect opportunities? Give an example of more/fewer opportunities based on background. Can people overcome these walls? Min 1 paragraph (5-7 sentences). Reply to 1 classmate.",
+    "notes": "20 pts. Post + reply to 1 classmate. Relate, add example, encourage classmate.",
     "completed": false,
     "subtasks": [
       {
@@ -1259,11 +1251,7 @@
         "done": false
       },
       {
-        "label": "Reply 1",
-        "done": false
-      },
-      {
-        "label": "Reply 2",
+        "label": "Reply to Classmate",
         "done": false
       }
     ],
@@ -1288,20 +1276,20 @@
     "dueDate": "2026-04-27T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Discussion Board \u2192 Week 7.",
-    "notes": "20 pts. Post + reply to classmates. Thursday is open for review/make-up/check-ins.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 7. Topic: Income Inequality. Watch the video first! What stood out? Do people start with same opportunities? How does social class affect life chances? Min 1 paragraph (5-7 sentences). Reply to 1 classmate.",
+    "notes": "20 pts. Post + reply to 1 classmate. Watch video first, then respond.",
     "completed": false,
     "subtasks": [
+      {
+        "label": "Watch Video",
+        "done": false
+      },
       {
         "label": "Initial Post",
         "done": false
       },
       {
-        "label": "Reply 1",
-        "done": false
-      },
-      {
-        "label": "Reply 2",
+        "label": "Reply to Classmate",
         "done": false
       }
     ],
@@ -1309,13 +1297,13 @@
   },
   {
     "id": "luna_soci_disc_w8_ec",
-    "name": "Week 8 Extra Credit Discussion Forum",
+    "name": "Week 8 Discussion \u2014 Social Norms Changing",
     "course": "SOCI-1110E - SP 2026",
     "dueDate": "2026-05-04T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Discussion Board \u2192 Week 8. EXTRA CREDIT opportunity!",
-    "notes": "Extra credit discussion. Watch provided visuals first.",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 8. Topic: Changing social norms. List 2 behaviors acceptable now but frowned upon 5-10 years ago. Why are they more accepted? Talk with a parent/grandparent about changes they noticed. Min 1 paragraph (5-7 sentences). Reply to 1 classmate.",
+    "notes": "20 pts. Post + reply to 1 classmate.",
     "completed": false,
     "subtasks": [
       {
@@ -1323,11 +1311,7 @@
         "done": false
       },
       {
-        "label": "Reply 1",
-        "done": false
-      },
-      {
-        "label": "Reply 2",
+        "label": "Reply to Classmate",
         "done": false
       }
     ],
@@ -1355,6 +1339,46 @@
     "hints": "Course \u2192 Content \u2192 Week 4 lectures. Social Interaction (Ch 4) and Social Groups (Ch 5) PowerPoints.",
     "notes": "Watch lecture videos and review PowerPoints for Chapters 4 & 5.",
     "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_ec_deviance",
+    "name": "Extra Credit Discussion \u2014 Deviance",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-05-07T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Discussion Board \u2192 Extra Credit. Topic: How is deviance socially constructed? What does it mean that deviance is relative?",
+    "notes": "EXTRA CREDIT. Worth doing for grade boost!",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_ec_desensitization",
+    "name": "Extra Credit Discussion \u2014 Desensitization",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-05-07T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Discussion Board \u2192 Extra Credit. Watch video first! Has violent/sexual content desensitized people? Does media influence what's acceptable? Example of something once shocking now normal? Min 1 paragraph (5-7 sentences).",
+    "notes": "EXTRA CREDIT. Worth doing for grade boost!",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Watch Video",
+        "done": false
+      },
+      {
+        "label": "Initial Post",
+        "done": false
+      }
+    ],
     "createdAt": "2026-04-05T00:00:00.000Z"
   }
 ]
