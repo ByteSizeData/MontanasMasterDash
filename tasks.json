@@ -1782,8 +1782,8 @@
     "dueDate": "2026-04-09T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Discussion Board \u2192 Data in the News.",
-    "notes": "",
+    "hints": "Course \u2192 Week 4 \u2192 Data in the News Discussion. Find a recent article/infographic/data visualization about a real-world topic (economics, sports, polls, etc).",
+    "notes": "Post must include: 1) Link or screenshot of visualization, 2) Explain it \u2014 what type of chart, what data, what trends, 3) Analyze \u2014 conclusions, biases, misleading aspects?, 4) Reflect \u2014 why you picked it, why stats matter. Reply to 2 classmates.",
     "completed": false,
     "subtasks": [
       {
@@ -2012,20 +2012,12 @@
     "dueDate": "2026-05-06T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Discussion Board \u2192 Looking Back at Statistics.",
-    "notes": "Final discussion \u2014 reflect on course.",
+    "hints": "Course \u2192 Week 8 \u2192 Looking Back at Statistics. Personal reflection \u2014 NO replies needed.",
+    "notes": "4-6 sentences. How has your view of statistics changed? What surprised you or was more useful than expected? How might you use statistics going forward? No replies required \u2014 just honest reflection.",
     "completed": false,
     "subtasks": [
       {
-        "label": "Initial Post",
-        "done": false
-      },
-      {
-        "label": "Reply 1",
-        "done": false
-      },
-      {
-        "label": "Reply 2",
+        "label": "Reflection Post",
         "done": false
       }
     ],
