@@ -158,7 +158,7 @@ function renderTasks() {
         </div>
         <div class="task-body">
           <div class="task-top">
-            <span class="task-name">${esc(task.name)}</span>
+            ${task.link ? `<a href="${esc(task.link)}" target="_blank" class="task-name task-name-link">${esc(task.name)}</a>` : `<span class="task-name">${esc(task.name)}</span>`}
             ${task.type ? `<span class="task-badge">${esc(task.type)}</span>` : ''}
             ${task.course ? `<span class="task-course-badge ${getCourseColorClass(task.course)}">${esc(task.course)}</span>` : ''}
           </div>
