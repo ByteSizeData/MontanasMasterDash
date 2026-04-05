@@ -112,8 +112,8 @@ h1 { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.5px; }
 .subtask-item.subtask-done { border-color: var(--green-border); background: var(--green-bg); }
 .task-actions { display: flex; align-items: center; gap: 0.2rem; padding: 0 0.7rem; }
 .task-actions .btn { padding: 0.3rem 0.45rem; font-size: 0.78rem; }
-.task-link-btn { color: var(--accent); text-decoration: none; font-size: 0.78rem; padding: 0.3rem 0.45rem; }
-.task-link-btn:hover { text-decoration: underline; }
+.btn-go { background: var(--accent); color: #fff !important; text-decoration: none !important; font-size: 0.82rem; font-weight: 600; padding: 0.4rem 0.75rem; border-radius: var(--radius-sm); transition: all 0.15s; display: inline-block; }
+.btn-go:hover { background: var(--accent-hover); transform: scale(1.05); }
 
 /* Empty State */
 .empty-state { flex: 1; display: none; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 3rem 2rem; color: var(--text-muted); }

@@ -169,7 +169,7 @@ function renderTasks() {
           ${task.subtasks ? `<div class="subtask-list">${task.subtasks.map((s,i) => `<label class="subtask-item ${s.done ? 'subtask-done' : ''}"><input type="checkbox" ${s.done ? 'checked' : ''} onchange="toggleSubtask('${task.id}',${i})"><span>${esc(s.label)}</span></label>`).join('')}</div>` : ''}
         </div>
         <div class="task-actions">
-          ${task.link ? `<a href="${esc(task.link)}" target="_blank" class="task-link-btn" title="Open in Blackboard">Open</a>` : ''}
+          ${task.link ? `<a href="${esc(task.link)}" target="_blank" class="btn btn-go" title="Go complete this task">Go →</a>` : ''}
           <button class="btn btn-ghost" onclick="editTask('${task.id}')">Edit</button>
           <button class="btn btn-danger" onclick="deleteTask('${task.id}')">Del</button>
         </div>
