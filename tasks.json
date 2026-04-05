@@ -32,7 +32,7 @@
     "dueDate": "2026-04-05T23:59",
     "type": "discussion",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Discussion Board \u2192 Psychological Movie Assignment. Post your movie choice. Wait for instructor approval (1 point = approved).",
+    "hints": "Course \u2192 Discussion Board \u2192 Psychological Movie Assignment. Choose: Multiple Personality Disorder Documentary OR Stanford Prison Experiment. Post your choice, wait for instructor approval (1 pt = approved).",
     "notes": "Review the video questions before choosing. If 0 points, choose a different movie and reply again.",
     "completed": false,
     "subtasks": [
@@ -256,8 +256,8 @@
     "dueDate": "2026-04-19T23:59",
     "type": "assignment",
     "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Psychological Paper Movie Rough Draft Assignment",
-    "notes": "25 pts \u2014 Submit rough draft of your psychological movie paper",
+    "hints": "Course \u2192 Psychological Paper Movie Rough Draft Assignment. Choose: Multiple Personality Disorder Documentary OR Stanford Prison Experiment (both free to watch \u2014 links in Blackboard).",
+    "notes": "25 pts \u2014 ROUGH DRAFT. MLA or APA format, Times New Roman, double-spaced, 1-inch margins. Answer ALL 5 questions (each worth 10 pts for final):\nQ1: Introduce movie \u2014 plot, characters, why you chose it, psychology interests.\nQ2: Pick ONE textbook chapter (Myers & DeWall 2024) that fits \u2014 use min 5 key terms.\nQ3: How is mental health/addiction depicted? 2 examples from movie.\nQ4: How do sociocultural influences impact characters/plot? Min 3 examples.\nQ5: What is fact vs Hollywood exaggeration? Min 3 examples.\nInclude Works Cited/References page with textbook citation.",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
@@ -657,7 +657,7 @@
     "type": "project",
     "link": "https://bb.luna.edu",
     "hints": "Course \u2192 Psychological Paper Movie Assignment",
-    "notes": "50 pts \u2014 MAJOR GRADE. Final version of the psychological movie paper.",
+    "notes": "50 pts \u2014 FINAL VERSION. Same 5 questions as rough draft but polished. MLA or APA format, Times New Roman, double-spaced, 1-inch margins.\nQ1: Introduce movie \u2014 plot, characters, why you chose it, psychology interests.\nQ2: Pick ONE textbook chapter (Myers & DeWall 2024) that fits \u2014 use min 5 key terms.\nQ3: How is mental health/addiction depicted? 2 examples from movie.\nQ4: How do sociocultural influences impact characters/plot? Min 3 examples.\nQ5: What is fact vs Hollywood exaggeration? Min 3 examples.\nInclude Works Cited/References page. BIGGEST PAPER GRADE.",
     "completed": false,
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
