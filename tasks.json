@@ -1183,7 +1183,11 @@
         "done": false
       },
       {
-        "label": "Reply to Classmate",
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
         "done": false
       }
     ],
@@ -1217,7 +1221,11 @@
         "done": false
       },
       {
-        "label": "Reply to Classmate",
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
         "done": false
       }
     ],
@@ -1251,7 +1259,11 @@
         "done": false
       },
       {
-        "label": "Reply to Classmate",
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
         "done": false
       }
     ],
@@ -1289,7 +1301,11 @@
         "done": false
       },
       {
-        "label": "Reply to Classmate",
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
         "done": false
       }
     ],
@@ -1311,7 +1327,11 @@
         "done": false
       },
       {
-        "label": "Reply to Classmate",
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
         "done": false
       }
     ],
