@@ -147,6 +147,11 @@ footer { text-align: center; padding: 1.25rem 2rem; border-top: 1px solid var(--
 .footer-links a { color: var(--accent); text-decoration: none; }
 .footer-links a:hover { text-decoration: underline; }
 
+/* Date Warning Banner */
+.date-warning { display: flex; align-items: center; gap: 0.6rem; padding: 0.65rem 2rem; background: linear-gradient(90deg, #ff4757, #ff6b81); color: #fff; font-size: 0.85rem; font-weight: 500; animation: pulse-bg 2s ease-in-out infinite; }
+.warning-icon { font-size: 1.3rem; }
+@keyframes pulse-bg { 0%,100% { background: linear-gradient(90deg, #ff4757, #ff6b81); } 50% { background: linear-gradient(90deg, #ff6b81, #ffa502); } }
+
 /* Toast */
 .toast { position: fixed; bottom: 1.5rem; right: 1.5rem; background: var(--surface); border: 1px solid var(--accent); color: var(--text); padding: 0.6rem 1rem; border-radius: var(--radius); font-size: 0.82rem; z-index: 2000; animation: fadeIn 0.2s ease; }
 .toast.success { border-color: var(--green); }

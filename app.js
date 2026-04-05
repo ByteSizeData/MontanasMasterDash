@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
   renderTasks();
   setupEventListeners();
   setInterval(renderTasks, 60000);
+  // Show date warning if any tasks have estimated dates (notes contain "estimated")
+  checkDateWarning();
 });
 
 // ===== Storage =====
@@ -331,5 +333,9 @@ function showToast(msg, type='') {
   const ex = document.querySelector('.toast'); if(ex) ex.remove();
   const t = document.createElement('div'); t.className=`toast ${type}`; t.textContent=msg;
   document.body.appendChild(t); setTimeout(()=>t.remove(),3000);
+}
+function checkDateWarning() {
+  const banner = document.getElementById('date-warning');
+  if (banner) banner.style.display = 'flex';
 }
 function esc(s) { const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
