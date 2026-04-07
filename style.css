@@ -73,6 +73,36 @@ h1 { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.5px; }
 #course-filter { padding: 0.35rem 0.6rem; background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: 20px; font-size: 0.78rem; cursor: pointer; margin-left: 0.4rem; }
 .stats { margin-left: auto; font-size: 0.78rem; color: var(--text-muted); }
 
+/* Discussions Section */
+.discussion-section {
+  margin: 1.25rem 2rem;
+  padding: 1.25rem 1.5rem;
+  background: linear-gradient(135deg, rgba(224,86,160,0.06), rgba(108,99,255,0.04));
+  border: 1px solid rgba(224,86,160,0.2);
+  border-radius: 14px;
+}
+.discussion-section .section-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--accent);
+  letter-spacing: 0.3px;
+}
+.discussion-list { display: flex; flex-direction: column; gap: 0.5rem; }
+.disc-card { display: flex; align-items: stretch; background: rgba(255,255,255,0.03); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; transition: border-color 0.15s, transform 0.1s; }
+.disc-card:hover { border-color: rgba(224,86,160,0.4); transform: translateY(-1px); }
+.disc-card .task-urgency-bar { width: 5px; flex-shrink: 0; }
+.disc-card.urgency-red .task-urgency-bar { background: var(--red); }
+.disc-card.urgency-yellow .task-urgency-bar { background: var(--yellow); }
+.disc-card.urgency-green .task-urgency-bar { background: var(--green); }
+.disc-card.urgency-red { background: var(--red-bg); border-color: var(--red-border); }
+.disc-card.urgency-yellow { background: var(--yellow-bg); border-color: var(--yellow-border); }
+.disc-card.urgency-green { background: var(--green-bg); border-color: var(--green-border); }
+.disc-card.completed { opacity: 0.45; background: rgba(255,255,255,0.02) !important; border-color: var(--border) !important; }
+.disc-card.completed .task-name { text-decoration: line-through; color: var(--text-muted); }
+.disc-card.completed .task-urgency-bar { background: var(--text-muted) !important; }
+.disc-monday-label { font-size: 0.72rem; color: var(--accent); font-weight: 600; margin-left: 0.3rem; }
+
 /* Task List */
 .task-list { flex: 1; padding: 0 2rem 2rem; display: flex; flex-direction: column; gap: 0.5rem; }
 

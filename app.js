@@ -116,24 +116,67 @@ function updateDynamicCourseGrades() {
   }).join('');
 }
 
+// ===== Helpers =====
+function getMondayOfWeek(dueDate) {
+  if (!dueDate) return null;
+  const d = new Date(dueDate);
+  const day = d.getDay(); // 0=Sun, 1=Mon, ...
+  const diff = (day + 6) % 7; // days since Monday
+  const monday = new Date(d);
+  monday.setDate(d.getDate() - diff);
+  return monday;
+}
+
+function formatShortDate(d) {
+  return d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+}
+
+function renderDiscussionSubtasks(task) {
+  if (!task.subtasks) return '';
+  const monday = getMondayOfWeek(task.dueDate);
+  const mondayStr = monday ? formatShortDate(monday) : '';
+  return `<div class="subtask-list">${task.subtasks.map((s, i) => {
+    const isInitial = s.label.toLowerCase().includes('initial post') || s.label.toLowerCase().includes('reflection post') || s.label.toLowerCase().includes('post movie');
+    const mondayTag = isInitial && mondayStr ? `<span class="disc-monday-label">do by ${mondayStr}</span>` : '';
+    return `<label class="subtask-item ${s.done ? 'subtask-done' : ''}"><input type="checkbox" ${s.done ? 'checked' : ''} onchange="toggleSubtask('${task.id}',${i})"><span>${esc(s.label)}</span>${mondayTag}</label>`;
+  }).join('')}</div>`;
+}
+
 // ===== Render =====
 function renderTasks() {
   const list = document.getElementById('task-list');
+  const discList = document.getElementById('discussion-list');
+  const discSection = document.getElementById('discussion-section');
   const empty = document.getElementById('empty-state');
   const stats = document.getElementById('stats');
 
-  let filtered = [...tasks];
-  filtered.sort((a, b) => {
+  // Separate discussions from other tasks
+  const discussions = [...tasks].filter(t => t.type === 'discussion');
+  const nonDiscussions = [...tasks].filter(t => t.type !== 'discussion');
+
+  // Sort both lists
+  const sortFn = (a, b) => {
     if (a.completed !== b.completed) return a.completed ? 1 : -1;
     const aD = a.dueDate ? new Date(a.dueDate).getTime() : Infinity;
     const bD = b.dueDate ? new Date(b.dueDate).getTime() : Infinity;
     return aD - bD;
-  });
+  };
+  discussions.sort(sortFn);
+
+  let filtered = [...nonDiscussions];
+  filtered.sort(sortFn);
 
   if (currentFilter === 'active') filtered = filtered.filter(t => !t.completed);
   else if (currentFilter === 'completed') filtered = filtered.filter(t => t.completed);
   else if (currentFilter === 'urgent') filtered = filtered.filter(t => !t.completed && getUrgency(t.dueDate) === 'red');
   if (currentCourse !== 'all') filtered = filtered.filter(t => t.course === currentCourse);
+
+  // Apply filters to discussions too
+  let filteredDisc = [...discussions];
+  if (currentFilter === 'active') filteredDisc = filteredDisc.filter(t => !t.completed);
+  else if (currentFilter === 'completed') filteredDisc = filteredDisc.filter(t => t.completed);
+  else if (currentFilter === 'urgent') filteredDisc = filteredDisc.filter(t => !t.completed && getUrgency(t.dueDate) === 'red');
+  if (currentCourse !== 'all') filteredDisc = filteredDisc.filter(t => t.course === currentCourse);
 
   const active = tasks.filter(t => !t.completed).length;
   const urgent = tasks.filter(t => !t.completed && getUrgency(t.dueDate) === 'red').length;
@@ -141,9 +184,43 @@ function renderTasks() {
   updateCourseFilter();
   updateProgressBar();
 
-  if (tasks.length === 0) { list.innerHTML = ''; empty.classList.add('visible'); return; }
+  if (tasks.length === 0) { list.innerHTML = ''; discList.innerHTML = ''; empty.classList.add('visible'); return; }
   empty.classList.remove('visible');
 
+  // Render discussions section
+  discSection.style.display = filteredDisc.length > 0 ? '' : 'none';
+  discList.innerHTML = filteredDisc.map(task => {
+    const urgency = task.completed ? '' : getUrgency(task.dueDate);
+    const urgencyClass = task.completed ? 'completed' : `urgency-${urgency}`;
+    const dueLabel = formatDueDate(task.dueDate);
+    const dueLabelClass = urgency === 'red' ? 'urgent' : urgency === 'yellow' ? 'warning' : '';
+
+    return `
+      <div class="disc-card ${urgencyClass}" data-id="${task.id}">
+        <div class="task-urgency-bar"></div>
+        <div class="task-check">
+          <input type="checkbox" ${task.completed ? 'checked' : ''} onchange="toggleTask('${task.id}')" title="Mark ${task.completed ? 'incomplete' : 'complete'}">
+        </div>
+        <div class="task-body">
+          <div class="task-top">
+            ${task.link ? `<a href="${esc(task.link)}" target="_blank" class="task-name task-name-link">${esc(task.name)}</a>` : `<span class="task-name">${esc(task.name)}</span>`}
+            ${task.course ? `<span class="task-course-badge ${getCourseColorClass(task.course)}">${esc(task.course)}</span>` : ''}
+          </div>
+          <div class="task-meta">
+            <span class="task-due-label ${dueLabelClass}">${dueLabel}</span>
+          </div>
+          ${task.notes ? `<div class="task-hints-row">${esc(task.notes)}</div>` : ''}
+          ${renderDiscussionSubtasks(task)}
+        </div>
+        <div class="task-actions">
+          ${task.link ? `<a href="${esc(task.link)}" target="_blank" class="btn btn-go" title="Go complete this task">Go →</a>` : ''}
+          <button class="btn btn-ghost" onclick="editTask('${task.id}')">Edit</button>
+          <button class="btn btn-danger" onclick="deleteTask('${task.id}')">Del</button>
+        </div>
+      </div>`;
+  }).join('');
+
+  // Render non-discussion tasks
   list.innerHTML = filtered.map(task => {
     const urgency = task.completed ? '' : getUrgency(task.dueDate);
     const urgencyClass = task.completed ? 'completed' : `urgency-${urgency}`;
