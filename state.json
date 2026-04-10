@@ -1,1 +1,10 @@
-{}
+{
+  "luna_musc_disc4": {
+    "completed": false,
+    "subtasks": [
+      true,
+      false,
+      false
+    ]
+  }
+}
