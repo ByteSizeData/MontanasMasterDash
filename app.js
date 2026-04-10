@@ -481,8 +481,36 @@ async function pullState() {
     if (!res.ok) return;
     const data = await res.json();
     ghStateSha = data.sha;
-    const content = JSON.parse(atob(data.content.replace(/\n/g, '')));
-    applyState(content);
+    const remoteState = JSON.parse(atob(data.content.replace(/\n/g, '')));
+    const remoteHasData = Object.keys(remoteState).length > 0;
+    const localState = buildState();
+    const localHasData = Object.keys(localState).length > 0;
+
+    if (remoteHasData) {
+      // Remote has state — merge: keep whichever has more progress per task
+      tasks.forEach(t => {
+        const r = remoteState[t.id];
+        const l = localState[t.id];
+        if (r && !l) {
+          // Only remote has state — apply it
+          t.completed = !!r.completed;
+          if (r.subtasks && t.subtasks) r.subtasks.forEach((done, i) => { if (t.subtasks[i]) t.subtasks[i].done = done; });
+        } else if (r && l) {
+          // Both have state — keep whichever has more done
+          t.completed = r.completed || l.completed;
+          if (t.subtasks) {
+            if (r.subtasks) r.subtasks.forEach((done, i) => { if (t.subtasks[i] && done) t.subtasks[i].done = true; });
+          }
+        }
+        // If only local has state, keep it (already in tasks)
+      });
+      saveTasks();
+      // Push merged state back
+      if (localHasData) pushState();
+    } else if (localHasData) {
+      // Remote is empty but local has completions — push local up
+      pushState();
+    }
   } catch (e) { console.warn('State pull failed:', e); }
 }
 
