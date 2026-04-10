@@ -1,1 +1,60 @@
-{}
+{
+  "luna_psyc_disc_w4": {
+    "completed": true,
+    "subtasks": [
+      true,
+      true,
+      true
+    ]
+  },
+  "luna_psyc_movie_choice": {
+    "completed": true,
+    "subtasks": [
+      true,
+      true,
+      true
+    ]
+  },
+  "luna_soci_disc_w4": {
+    "completed": true,
+    "subtasks": [
+      true,
+      true,
+      true
+    ]
+  },
+  "luna_soci_exam2": {
+    "completed": true
+  },
+  "luna_soci_disc_w5": {
+    "completed": true,
+    "subtasks": [
+      true,
+      true,
+      true
+    ]
+  },
+  "luna_soci_watch_ch45": {
+    "completed": true
+  },
+  "luna_musc_aha4": {
+    "completed": true
+  },
+  "luna_musc_vision_board": {
+    "completed": true
+  },
+  "luna_musc_success_plan": {
+    "completed": true
+  },
+  "luna_math_ch3_hw": {
+    "completed": true
+  },
+  "luna_math_disc_data": {
+    "completed": true,
+    "subtasks": [
+      true,
+      true,
+      true
+    ]
+  }
+}
