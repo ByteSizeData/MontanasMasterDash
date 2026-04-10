@@ -1415,13 +1415,13 @@
   },
   {
     "id": "luna_musc_disc4",
-    "name": "Discussion #3 \u2014 Chapters 10-20",
+    "name": "Discussion #3",
     "course": "MUSC-1130E - SP 2026",
     "dueDate": "2026-04-15T12:59",
     "type": "discussion",
     "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
-    "hints": "Course \u2192 Discussion Board \u2192 Discussion #4. Covers Classical & Romantic periods (Ch 10-20). First post due FRIDAY, reply to classmate by following TUESDAY.",
-    "notes": "22 pts. Access Learning Modules for PowerPoints and videos first.",
+    "hints": "Course \u2192 Discussion Board \u2192 Discussion #3. First post due FRIDAY, reply to classmate by following TUESDAY.",
+    "notes": "22 pts.",
     "completed": false,
     "subtasks": [
       {
@@ -1452,34 +1452,10 @@
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
   {
-    "id": "luna_musc_quiz3",
-    "name": "Quiz #3 \u2014 Primary/Secondary Sources & MMPP Format",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-10T23:59",
-    "type": "quiz",
-    "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Quizzes \u2192 Quiz #3.",
-    "notes": "Covers primary/secondary sources and MMPP format requirements.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_musc_login4",
-    "name": "Weekly Login \u2014 Week 4 (log in 2x)",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-12T23:59",
-    "type": "assignment",
-    "link": "https://bb.luna.edu",
-    "hints": "Log into Blackboard course at least 2 times this week.",
-    "notes": "10 pts/week for class participation login.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
     "id": "luna_musc_concert1",
-    "name": "Concert Review #1 (Assigned)",
+    "name": "Concert Review #1 - due April 17th",
     "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-17T23:59",
+    "dueDate": "2026-04-18T23:59",
     "type": "project",
     "link": "https://bb.luna.edu",
     "hints": "Course \u2192 Learning Modules \u2192 Week 5 \u2192 More Details for Concert Review guidelines. Review live music (in-person or online) for content, genre, style using music vocabulary.",
@@ -1488,22 +1464,10 @@
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
   {
-    "id": "luna_musc_exam2",
-    "name": "Exam 2 \u2014 Chapters 6-15 (Midterm)",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-16T23:59",
-    "type": "quiz",
-    "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Exams. Opens Tuesday, closes Thursday. Study guide available Monday. Open book/open note, NOT timed.",
-    "notes": "100 pts. Covers Baroque, Classical periods (Ch 6-15). Study guide in Learning Modules.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
     "id": "luna_musc_mmpp_draft1",
-    "name": "MMPP First Draft",
+    "name": "MMPP (first draft)",
     "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-17T23:59",
+    "dueDate": "2026-04-18T23:59",
     "type": "project",
     "link": "https://bb.luna.edu",
     "hints": "Course \u2192 MMPP assignments. Submit first draft of your Multi-media Presentation Project (6-9 PPT slides).",
@@ -1524,72 +1488,10 @@
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
   {
-    "id": "luna_musc_login5",
-    "name": "Weekly Login \u2014 Week 5 (log in 2x)",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-19T23:59",
-    "type": "assignment",
-    "link": "https://bb.luna.edu",
-    "hints": "Log into Blackboard course at least 2 times this week.",
-    "notes": "10 pts/week.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_musc_disc5",
-    "name": "Discussion #5 \u2014 Chapters 21-28",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-24T23:59",
-    "type": "discussion",
-    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
-    "hints": "Course \u2192 Discussion Board \u2192 Discussion #5. Covers Late Romantic, Impressionism, Modernism, American music (Ch 21-28). First post FRIDAY, reply by TUESDAY.",
-    "notes": "22 pts.",
-    "completed": false,
-    "subtasks": [
-      {
-        "label": "Initial Post (Fri)",
-        "done": false
-      },
-      {
-        "label": "Reply 1",
-        "done": false
-      },
-      {
-        "label": "Reply 2",
-        "done": false
-      }
-    ],
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_musc_aha6",
-    "name": "Aha Moment \u2014 Week 6",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-24T23:59",
-    "type": "assignment",
-    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
-    "hints": "Course \u2192 Discussions \u2192 Aha Moments.",
-    "notes": "8 pts.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_musc_quiz_mmpp_rec",
-    "name": "Quiz \u2014 MMPP Recommendations",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-24T23:59",
-    "type": "quiz",
-    "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Quizzes \u2192 MMPP Recommendations Quiz.",
-    "notes": "Part of quiz points.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
     "id": "luna_musc_mmpp_draft2",
-    "name": "MMPP Second Draft",
+    "name": "MMPP (second draft)",
     "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-27T23:59",
+    "dueDate": "2026-04-25T23:59",
     "type": "project",
     "link": "https://bb.luna.edu",
     "hints": "Course \u2192 MMPP assignments. Submit second draft based on instructor feedback.",
@@ -1598,34 +1500,10 @@
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
   {
-    "id": "luna_musc_login6",
-    "name": "Weekly Login \u2014 Week 6 (log in 2x)",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-26T23:59",
-    "type": "assignment",
-    "link": "https://bb.luna.edu",
-    "hints": "Log into Blackboard course at least 2 times this week.",
-    "notes": "10 pts/week.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "id": "luna_musc_exam3",
-    "name": "Exam 3 \u2014 Chapters 26-33",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-30T23:59",
-    "type": "quiz",
-    "link": "https://bb.luna.edu",
-    "hints": "Course \u2192 Exams. Opens Tuesday, closes Thursday. Study guide Monday. Open book/open note, NOT timed.",
-    "notes": "100 pts. Covers American Modernism, Postmodernism, Popular Music, Jazz, Rock, World Music.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
     "id": "luna_musc_mmpp_final",
-    "name": "MMPP Final Draft (with audio!)",
+    "name": "MMPP (final draft) - with audio",
     "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-05-01T23:59",
+    "dueDate": "2026-05-02T23:59",
     "type": "project",
     "link": "https://bb.luna.edu",
     "hints": "Course \u2192 MMPP assignments. Submit FINAL draft with AUDIO recording. 6-9 PowerPoint slides, APA format.",
@@ -1646,22 +1524,10 @@
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
   {
-    "id": "luna_musc_login7",
-    "name": "Weekly Login \u2014 Week 7 (log in 2x)",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-05-03T23:59",
-    "type": "assignment",
-    "link": "https://bb.luna.edu",
-    "hints": "Log into Blackboard course at least 2 times this week.",
-    "notes": "10 pts/week.",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
     "id": "luna_musc_concert2",
-    "name": "Concert Review #2 (Free Choice)",
+    "name": "Concert Review #2",
     "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-05-07T23:59",
+    "dueDate": "2026-05-02T23:59",
     "type": "project",
     "link": "https://bb.luna.edu",
     "hints": "Course \u2192 Concert Review. YOUR CHOICE of live music (in-person or recorded live). Use course content and music vocabulary.",
@@ -1671,7 +1537,7 @@
   },
   {
     "id": "luna_musc_final_exam",
-    "name": "Final Exam \u2014 Chapters 26-34",
+    "name": "EXAM #4 FINAL EXAM",
     "course": "MUSC-1130E - SP 2026",
     "dueDate": "2026-05-07T23:59",
     "type": "quiz",
@@ -1716,18 +1582,6 @@
     "createdAt": "2026-04-05T00:00:00.000Z"
   },
   {
-    "id": "luna_musc_login8",
-    "name": "Weekly Login \u2014 Week 8 (log in 2x)",
-    "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-05-08T23:59",
-    "type": "assignment",
-    "link": "https://bb.luna.edu",
-    "hints": "Log into Blackboard course at least 2 times this week. LAST WEEK.",
-    "notes": "10 pts/week. No work accepted past May 8!",
-    "completed": false,
-    "createdAt": "2026-04-05T00:00:00.000Z"
-  },
-  {
     "id": "luna_musc_vision_board",
     "name": "Vision Board",
     "course": "MUSC-1130E - SP 2026",
@@ -1753,9 +1607,9 @@
   },
   {
     "id": "luna_musc_mmpp_topic",
-    "name": "MMPP Topic Selection",
+    "name": "MMPP Topic - due April 10th",
     "course": "MUSC-1130E - SP 2026",
-    "dueDate": "2026-04-02T23:59",
+    "dueDate": "2026-04-10T23:59",
     "type": "assignment",
     "link": "https://bb.luna.edu",
     "hints": "Course \u2192 MMPP \u2192 Topic selection. Must meet live with instructor to choose topic before moving forward.",

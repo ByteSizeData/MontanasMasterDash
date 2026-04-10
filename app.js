@@ -187,37 +187,51 @@ function renderTasks() {
   if (tasks.length === 0) { list.innerHTML = ''; discList.innerHTML = ''; empty.classList.add('visible'); return; }
   empty.classList.remove('visible');
 
-  // Render discussions section
+  // Render discussions section — grouped by course
   discSection.style.display = filteredDisc.length > 0 ? '' : 'none';
-  discList.innerHTML = filteredDisc.map(task => {
-    const urgency = task.completed ? '' : getUrgency(task.dueDate);
-    const urgencyClass = task.completed ? 'completed' : `urgency-${urgency}`;
-    const dueLabel = formatDueDate(task.dueDate);
-    const dueLabelClass = urgency === 'red' ? 'urgent' : urgency === 'yellow' ? 'warning' : '';
 
-    return `
-      <div class="disc-card ${urgencyClass}" data-id="${task.id}">
-        <div class="task-urgency-bar"></div>
-        <div class="task-check">
-          <input type="checkbox" ${task.completed ? 'checked' : ''} onchange="toggleTask('${task.id}')" title="Mark ${task.completed ? 'incomplete' : 'complete'}">
-        </div>
-        <div class="task-body">
-          <div class="task-top">
-            ${task.link ? `<a href="${esc(task.link)}" target="_blank" class="task-name task-name-link">${esc(task.name)}</a>` : `<span class="task-name">${esc(task.name)}</span>`}
-            ${task.course ? `<span class="task-course-badge ${getCourseColorClass(task.course)}">${esc(task.course)}</span>` : ''}
+  // Group by course
+  const discByCourse = {};
+  filteredDisc.forEach(task => {
+    const course = task.course || 'Other';
+    if (!discByCourse[course]) discByCourse[course] = [];
+    discByCourse[course].push(task);
+  });
+
+  discList.innerHTML = Object.entries(discByCourse).map(([course, courseTasks]) => {
+    const shortName = course.replace(/\s*-\s*SP\s.*$/, '').trim();
+    const cards = courseTasks.map(task => {
+      const urgency = task.completed ? '' : getUrgency(task.dueDate);
+      const urgencyClass = task.completed ? 'completed' : `urgency-${urgency}`;
+      const dueLabel = formatDueDate(task.dueDate);
+      const dueLabelClass = urgency === 'red' ? 'urgent' : urgency === 'yellow' ? 'warning' : '';
+
+      return `
+        <div class="disc-card ${urgencyClass}" data-id="${task.id}">
+          <div class="task-urgency-bar"></div>
+          <div class="task-check">
+            <input type="checkbox" ${task.completed ? 'checked' : ''} onchange="toggleTask('${task.id}')" title="Mark ${task.completed ? 'incomplete' : 'complete'}">
           </div>
-          <div class="task-meta">
-            <span class="task-due-label ${dueLabelClass}">${dueLabel}</span>
+          <div class="task-body">
+            <div class="task-top">
+              ${task.link ? `<a href="${esc(task.link)}" target="_blank" class="task-name task-name-link">${esc(task.name)}</a>` : `<span class="task-name">${esc(task.name)}</span>`}
+              <span class="task-course-badge ${getCourseColorClass(task.course)}">${esc(shortName)}</span>
+            </div>
+            <div class="task-meta">
+              <span class="task-due-label ${dueLabelClass}">${dueLabel}</span>
+            </div>
+            ${task.notes ? `<div class="task-hints-row">${esc(task.notes)}</div>` : ''}
+            ${renderDiscussionSubtasks(task)}
           </div>
-          ${task.notes ? `<div class="task-hints-row">${esc(task.notes)}</div>` : ''}
-          ${renderDiscussionSubtasks(task)}
-        </div>
-        <div class="task-actions">
-          ${task.link ? `<a href="${esc(task.link)}" target="_blank" class="btn btn-go" title="Go complete this task">Go →</a>` : ''}
-          <button class="btn btn-ghost" onclick="editTask('${task.id}')">Edit</button>
-          <button class="btn btn-danger" onclick="deleteTask('${task.id}')">Del</button>
-        </div>
-      </div>`;
+          <div class="task-actions">
+            ${task.link ? `<a href="${esc(task.link)}" target="_blank" class="btn btn-go" title="Go complete this task">Go →</a>` : ''}
+            <button class="btn btn-ghost" onclick="editTask('${task.id}')">Edit</button>
+            <button class="btn btn-danger" onclick="deleteTask('${task.id}')">Del</button>
+          </div>
+        </div>`;
+    }).join('');
+
+    return `<div class="disc-course-group"><div class="disc-course-label">${esc(shortName)}</div>${cards}</div>`;
   }).join('');
 
   // Render non-discussion tasks

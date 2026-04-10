@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Montana's Master Dash</title>
-  <link rel="stylesheet" href="style.css?v=5">
+  <link rel="stylesheet" href="style.css?v=6">
 </head>
 <body>
   <header>
@@ -33,6 +33,15 @@
     <span>Some due dates are <strong>estimated</strong> and may not be accurate. Please verify dates on Blackboard and update them here!</span>
     <button class="btn btn-ghost" onclick="this.parentElement.style.display='none'" style="margin-left:auto;color:#fff">✕</button>
   </div>
+
+  <!-- Discussions Section — TOP PRIORITY -->
+  <section class="discussion-section" id="discussion-section">
+    <div class="disc-header">
+      <h2 class="section-title">Discussions</h2>
+      <span class="disc-subtitle">Initial posts due Monday of each week</span>
+    </div>
+    <div id="discussion-list" class="discussion-list"></div>
+  </section>
 
   <!-- Progress + Grade Bar -->
   <div class="progress-section">
@@ -66,12 +75,6 @@
     <select id="course-filter"><option value="all">All Courses</option></select>
     <div class="stats" id="stats"></div>
   </div>
-
-  <!-- Discussions Section -->
-  <section class="discussion-section" id="discussion-section">
-    <h2 class="section-title">Discussions</h2>
-    <div id="discussion-list" class="discussion-list"></div>
-  </section>
 
   <!-- Task List -->
   <main id="task-list" class="task-list"></main>
@@ -193,6 +196,6 @@
     </p>
   </footer>
 
-  <script src="app.js?v=4"></script>
+  <script src="app.js?v=6"></script>
 </body>
 </html>
