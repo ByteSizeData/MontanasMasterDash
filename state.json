@@ -15,7 +15,46 @@
       true
     ]
   },
+  "luna_psyc_midterm": {
+    "completed": true
+  },
   "luna_psyc_w4_anxiety": {
+    "completed": true
+  },
+  "luna_psyc_w4_reinforcement": {
+    "completed": true
+  },
+  "luna_psyc_w4_media_violence": {
+    "completed": true
+  },
+  "luna_psyc_w4_bandura": {
+    "completed": true
+  },
+  "luna_psyc_w4_cognition_conditioning": {
+    "completed": true
+  },
+  "luna_psyc_w4_ch7quiz": {
+    "completed": true
+  },
+  "luna_psyc_w4_alzheimers": {
+    "completed": true
+  },
+  "luna_psyc_w4_stm": {
+    "completed": true
+  },
+  "luna_psyc_w4_ltm": {
+    "completed": true
+  },
+  "luna_psyc_w4_abuse_memory": {
+    "completed": true
+  },
+  "luna_psyc_w4_memory_accurate": {
+    "completed": true
+  },
+  "luna_psyc_w4_reliable_memory": {
+    "completed": true
+  },
+  "luna_psyc_w4_ch8quiz": {
     "completed": true
   },
   "luna_soci_disc_w4": {
@@ -36,6 +75,9 @@
       true,
       true
     ]
+  },
+  "luna_soci_exam3": {
+    "completed": true
   },
   "luna_soci_watch_ch45": {
     "completed": true
@@ -80,6 +122,9 @@
     ]
   },
   "luna_math_ch41_hw": {
+    "completed": true
+  },
+  "luna_math_ch42_hw": {
     "completed": true
   }
 }
