@@ -48,6 +48,14 @@
   "luna_musc_aha4": {
     "completed": true
   },
+  "luna_musc_final_disc": {
+    "completed": true,
+    "subtasks": [
+      true,
+      true,
+      true
+    ]
+  },
   "luna_musc_vision_board": {
     "completed": true
   },
