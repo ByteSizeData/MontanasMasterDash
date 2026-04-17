@@ -92,6 +92,9 @@
   "luna_psyc_w5_intel_age": {
     "completed": true
   },
+  "luna_psyc_w5_wechsler": {
+    "completed": true
+  },
   "luna_soci_disc_w4": {
     "completed": true,
     "subtasks": [
