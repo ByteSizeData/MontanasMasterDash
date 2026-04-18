@@ -130,11 +130,11 @@
     "completed": true
   },
   "luna_soci_disc_w6": {
-    "completed": false,
+    "completed": true,
     "subtasks": [
       true,
       true,
-      false
+      true
     ]
   },
   "luna_soci_watch_ch45": {
