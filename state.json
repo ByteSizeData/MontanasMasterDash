@@ -129,6 +129,14 @@
   "luna_soci_exam3": {
     "completed": true
   },
+  "luna_soci_disc_w6": {
+    "completed": false,
+    "subtasks": [
+      true,
+      false,
+      false
+    ]
+  },
   "luna_soci_watch_ch45": {
     "completed": true
   },
