@@ -196,6 +196,14 @@
   "luna_soci_read_ch6_7": {
     "completed": true
   },
+  "luna_soci_disc_w7": {
+    "completed": false,
+    "subtasks": [
+      true,
+      false,
+      false
+    ]
+  },
   "luna_soci_watch_ch45": {
     "completed": true
   },
