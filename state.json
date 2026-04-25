@@ -200,7 +200,7 @@
     "completed": false,
     "subtasks": [
       true,
-      false,
+      true,
       false
     ]
   },
