@@ -163,6 +163,14 @@
   "luna_psyc_w6_ch12quiz": {
     "completed": true
   },
+  "luna_psyc_disc_w7": {
+    "completed": false,
+    "subtasks": [
+      true,
+      false,
+      false
+    ]
+  },
   "luna_psyc_w7_attributions": {
     "completed": true
   },
