@@ -175,6 +175,9 @@
   "luna_psyc_w7_hot_temp": {
     "completed": true
   },
+  "luna_psyc_w7_race": {
+    "completed": true
+  },
   "luna_soci_disc_w4": {
     "completed": true,
     "subtasks": [
