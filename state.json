@@ -164,11 +164,11 @@
     "completed": true
   },
   "luna_psyc_disc_w7": {
-    "completed": false,
+    "completed": true,
     "subtasks": [
       true,
       true,
-      false
+      true
     ]
   },
   "luna_psyc_w7_attributions": {
