@@ -280,6 +280,14 @@
   "luna_soci_watch_ch45": {
     "completed": true
   },
+  "luna_soci_ec_deviance": {
+    "completed": false,
+    "subtasks": [
+      true,
+      false,
+      false
+    ]
+  },
   "luna_musc_disc4": {
     "completed": true,
     "subtasks": [
