@@ -288,6 +288,14 @@
       false
     ]
   },
+  "luna_soci_ec_desensitization": {
+    "completed": false,
+    "subtasks": [
+      true,
+      false,
+      false
+    ]
+  },
   "luna_musc_disc4": {
     "completed": true,
     "subtasks": [
