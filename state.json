@@ -231,6 +231,24 @@
   "luna_psyc_final": {
     "completed": true
   },
+  "luna_psyc_w8_cog_therapy": {
+    "completed": true
+  },
+  "luna_psyc_w8_therapists": {
+    "completed": true
+  },
+  "luna_psyc_w8_psychoanalysis": {
+    "completed": true
+  },
+  "luna_psyc_w8_covid_mental": {
+    "completed": true
+  },
+  "luna_psyc_w8_lifestyle": {
+    "completed": true
+  },
+  "luna_psyc_w8_antidepressants": {
+    "completed": true
+  },
   "luna_psyc_w8_drugs": {
     "completed": true
   },
