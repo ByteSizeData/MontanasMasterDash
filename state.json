@@ -486,5 +486,8 @@
       true,
       true
     ]
+  },
+  "luna_math_final_test": {
+    "completed": true
   }
 }
