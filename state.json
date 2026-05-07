@@ -350,11 +350,11 @@
     "completed": true
   },
   "luna_soci_ec_deviance": {
-    "completed": false,
+    "completed": true,
     "subtasks": [
       true,
-      false,
-      false
+      true,
+      true
     ]
   },
   "luna_soci_ec_desensitization": {
