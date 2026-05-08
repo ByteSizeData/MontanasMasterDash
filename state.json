@@ -229,11 +229,11 @@
     "completed": true
   },
   "luna_psyc_disc_w8": {
-    "completed": false,
+    "completed": true,
     "subtasks": [
       true,
       true,
-      false
+      true
     ]
   },
   "luna_psyc_final": {
