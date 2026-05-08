@@ -228,6 +228,14 @@
   "luna_psyc_w7_ch14quiz": {
     "completed": true
   },
+  "luna_psyc_disc_w8": {
+    "completed": false,
+    "subtasks": [
+      true,
+      false,
+      false
+    ]
+  },
   "luna_psyc_final": {
     "completed": true
   },
