@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "luna_psyc_disc_w4",
+    "name": "Week 4 Discussion - Chapter 7 & 8",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T23:59",
+    "type": "discussion",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 4. Part 1: Positive reinforcement vs punishment. Part 2: Children's eyewitness reliability. Post by Wed 11:59pm, reply to 2 students.",
+    "notes": "Min 3 sentences per question. Cite textbook (Myers & DeWall). Respond to 2 classmates with prompts like 'I agree because...', 'I wonder...', etc.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_movie_choice",
+    "name": "Psychological Movie Assignment - What movie will you choose?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-05T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Psychological Movie Assignment. Choose: Multiple Personality Disorder Documentary OR Stanford Prison Experiment. Post your choice, wait for instructor approval (1 pt = approved).",
+    "notes": "Review the video questions before choosing. If 0 points, choose a different movie and reply again.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Post movie choice",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_midterm",
+    "name": "Midterm Exam",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Exams \u2192 Midterm Exam. Worth 50 pts. Covers Chapters 1-8.",
+    "notes": "50 points \u2014 biggest grade item so far. Study all chapter practice quizzes.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_anxiety",
+    "name": "How Would You Know if People Can Learn to Reduce Anxiety?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_reinforcement",
+    "name": "Concept Practice: Schedules of Reinforcement",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_media_violence",
+    "name": "Thinking Critically About: The Effect of Viewing Media Violence",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_bandura",
+    "name": "Video Activity: Albert Bandura",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_cognition_conditioning",
+    "name": "Concept Practice: Cognition Influences Conditioning",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_ch7quiz",
+    "name": "Chapter 7 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_alzheimers",
+    "name": "Video Activity: Alzheimer's and The Brain",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_stm",
+    "name": "Concept Practice: Short-Term Memory Capacity",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_ltm",
+    "name": "Concept Practice: Long-Term Memory Systems",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_abuse_memory",
+    "name": "Thinking Critically About: Can Memories of Childhood Sexual Abuse Be Repressed and Then Recovered?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_memory_accurate",
+    "name": "How Would You Know if People's Memories Are Accurate?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_reliable_memory",
+    "name": "Concept Practice: How Reliable Is Your Memory?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w4_ch8quiz",
+    "name": "Chapter 8 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-12T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 4 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_disc_w5",
+    "name": "Week 5 Discussion - Chapter 9 & 10",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T23:59",
+    "type": "discussion",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 5. Part 1: Is language unique to humans? Part 2: Intelligence test bias & stereotype threat + take Gardner's Multiple Intelligence test. Post by Wed, reply to 2 students.",
+    "notes": "Min 3 sentences per question. Cite textbook. Take the Multiple Intelligence test at the link and share top 2 results.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_checkpoint2",
+    "name": "Checkpoint Survey 2",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Orientation and Checkpoint Surveys \u2192 Checkpoint Survey 2",
+    "notes": "5 pts \u2014 easy survey",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_movie_rough",
+    "name": "Psychological Paper Movie Rough Draft Assignment",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Psychological Paper Movie Rough Draft Assignment. Choose: Multiple Personality Disorder Documentary OR Stanford Prison Experiment (both free to watch \u2014 links in Blackboard).",
+    "notes": "25 pts \u2014 ROUGH DRAFT. MLA or APA format, Times New Roman, double-spaced, 1-inch margins. Answer ALL 5 questions (each worth 10 pts for final):\nQ1: Introduce movie \u2014 plot, characters, why you chose it, psychology interests.\nQ2: Pick ONE textbook chapter (Myers & DeWall 2024) that fits \u2014 use min 5 key terms.\nQ3: How is mental health/addiction depicted? 2 examples from movie.\nQ4: How do sociocultural influences impact characters/plot? Min 3 examples.\nQ5: What is fact vs Hollywood exaggeration? Min 3 examples.\nInclude Works Cited/References page with textbook citation.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_fear",
+    "name": "Thinking Critically About: The Fear Factor",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_bad_decisions",
+    "name": "Video Activity: TedTalk: Dan Gilbert: Why We Make Bad Decisions",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_bilingual",
+    "name": "How Would You Know if There Is a Bilingual Advantage?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_animals",
+    "name": "Video Activity: How Intelligent Are Animals?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_lang_brain",
+    "name": "Concept Practice: Language Areas in The Brain",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_ch9quiz",
+    "name": "Chapter 9 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_understanding_intel",
+    "name": "Video Activity: Understanding Intelligence",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_theories_intel",
+    "name": "Concept Practice: Theories of Intelligence",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_intel_age",
+    "name": "How Would You Know if Intelligence Changes with Age?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_wechsler",
+    "name": "Concept Practice: Wechsler Intelligence Tasks",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_cultural_prof",
+    "name": "Video Activity: Can 'Cultural Proficiency' Among Teachers Help Close Student Achievement Gap?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w5_ch10quiz",
+    "name": "Chapter 10 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-19T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 5 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_disc_w6",
+    "name": "Week 6 Discussion - Chapter 11 & 12",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T23:59",
+    "type": "discussion",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 6. Part 1: Cultural/situational factors that influence hunger. Part 2: Gestures & facial expressions across cultures. Post by Wed, reply to 2 students.",
+    "notes": "Min 3 sentences per question. Cite textbook. Respond to 2 classmates.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_maslow",
+    "name": "Concept Practice: Building Maslow's Hierarchy",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_obesity",
+    "name": "Thinking Critically About: The Challenges of Obesity and Weight Control",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_obesity_vid",
+    "name": "Video Activity: Obesity Guidelines Move Away From Focus on Weight Loss",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_sexuality",
+    "name": "Video Activity: Human Sexuality",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_relationship",
+    "name": "Assess Your Strengths: How Strong Is Your Relationship?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_social_media",
+    "name": "Video Activity: Pressures on Young People from Social Media",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_ch11quiz",
+    "name": "Chapter 11 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_lie_detect",
+    "name": "Thinking Critically About: Lie Detection",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_emotion_theories",
+    "name": "Concept Practice: Theories of Emotion",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_ans",
+    "name": "Concept Practice: The Autonomic Nervous System",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_facial",
+    "name": "Video Activity: Emotions and Facial Expression",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_facial_cp",
+    "name": "Concept Practice: Facial Expressions of Emotion",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_happy",
+    "name": "Video Activity: Would $100 Million Make You Happy?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_stress",
+    "name": "Thinking Critically About: Stress and Health",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_stress_mgmt",
+    "name": "Concept Practice: Methods of Managing Stress",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w6_ch12quiz",
+    "name": "Chapter 12 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-04-26T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 6 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_disc_w7",
+    "name": "Week 7 Discussion - Chapter 13 & 14",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T23:59",
+    "type": "discussion",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 7. Part 1: Groupthink examples from history. Part 2: Five-Factor Model \u2014 take test at openpsychometrics.org/tests/IPIP-BFFM/ and discuss results. Post by Wed, reply to 2 students.",
+    "notes": "Min 3 sentences per question. Cite textbook. Take the Big Five test and share results.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_movie_final",
+    "name": "Psychological Paper Movie Assignment (Final)",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T23:59",
+    "type": "project",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Psychological Paper Movie Assignment",
+    "notes": "50 pts \u2014 FINAL VERSION. Same 5 questions as rough draft but polished. MLA or APA format, Times New Roman, double-spaced, 1-inch margins.\nQ1: Introduce movie \u2014 plot, characters, why you chose it, psychology interests.\nQ2: Pick ONE textbook chapter (Myers & DeWall 2024) that fits \u2014 use min 5 key terms.\nQ3: How is mental health/addiction depicted? 2 examples from movie.\nQ4: How do sociocultural influences impact characters/plot? Min 3 examples.\nQ5: What is fact vs Hollywood exaggeration? Min 3 examples.\nInclude Works Cited/References page. BIGGEST PAPER GRADE.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_attributions",
+    "name": "Concept Practice: Making Attributions",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_dissonance",
+    "name": "Concept Practice: Cognitive Dissonance",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_internet",
+    "name": "Thinking Critically About: The Internet as Social Amplifier",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_hot_temp",
+    "name": "How Would You Know if Hot Temperatures Cause Aggression?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_race",
+    "name": "Video Activity: How to Talk With Kids About Race",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_protest",
+    "name": "Video Activity: Voices of Protest",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_prejudice",
+    "name": "Concept Practice: Sources of Prejudice",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_aggression",
+    "name": "Concept Practice: What Causes Aggression?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_attraction",
+    "name": "Concept Practice: Attraction",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_ch13quiz",
+    "name": "Chapter 13 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_freud",
+    "name": "Concept Practice: Freud's Stages of Psychosexual Development",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_defense",
+    "name": "Concept Practice: Defense Mechanisms",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_introversion",
+    "name": "Thinking Critically About: The Stigma of Introversion",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_astrologers",
+    "name": "How Would You Know if Astrologers Can Describe People's Personality?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_big5",
+    "name": "Concept Practice: The Big Five Personality Traits",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_selfies",
+    "name": "Video Activity: What Would Freud Make of our Obsession with Selfies?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_comparing",
+    "name": "Concept Practice: Comparing Personality Theories",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w7_ch14quiz",
+    "name": "Chapter 14 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-03T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 7 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_disc_w8",
+    "name": "Week 8 Discussion - Chapter 15 & 16",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T23:59",
+    "type": "discussion",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 8. Part 1: Myths about mental illness. Part 2: Most effective therapy type. Part 3: Favorite chapter this semester. Post by Wed, reply to 2 students.",
+    "notes": "Min 3 sentences per question. Cite textbook. 3 parts this week! Respond to 2 classmates.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_final",
+    "name": "Final Exam",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Exams \u2192 Final Exam. Worth 50 pts. Covers all chapters.",
+    "notes": "50 points \u2014 BIGGEST GRADE ITEM. Study all chapter quizzes and review notes.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_anxiety_disorders",
+    "name": "Concept Practice: Explaining Anxiety Disorders",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_mood_explain",
+    "name": "Concept Practice: Explaining Mood Disorders",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_mood_types",
+    "name": "Concept Practice: Types of Mood Disorders",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_schizo",
+    "name": "Concept Practice: Explaining Schizophrenia",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_comparing_disorders",
+    "name": "Concept Practice: Comparing Psychological Disorders",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_adhd",
+    "name": "Thinking Critically About: ADHD\u2014Normal High Energy or Disordered Behavior?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_aspergers",
+    "name": "Video Activity: TedTalk: Alix Generous: Asperger's",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "4 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_ch15quiz",
+    "name": "Chapter 15 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_cog_therapy",
+    "name": "Video Activity: Cognitive Therapies",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_therapists",
+    "name": "Concept Practice: Types of Therapies and Therapists",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_psychoanalysis",
+    "name": "Concept Practice: Methods of Psychoanalysis",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_covid_mental",
+    "name": "Video Activity: COVID-19, Isolation and Mental Health",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_lifestyle",
+    "name": "Thinking Critically About: Therapeutic Lifestyle Change",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_antidepressants",
+    "name": "How Would You Know How Well Antidepressants Work?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_drugs",
+    "name": "Concept Practice: Types of Therapeutic Drugs",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_brain_therapy",
+    "name": "Concept Practice: Brain Interventions as Therapy",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "1 pt",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_ch16quiz",
+    "name": "Chapter 16 Practice Quiz",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "quiz",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "5 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_lc54",
+    "name": "LearningCurve Module 54: Intro to Therapy & Psychological Therapies",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_lc55",
+    "name": "LearningCurve Module 55: Evaluating Psychotherapies",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_resilience",
+    "name": "Assess Your Strengths: How Resilient Are You?",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "2 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_psyc_w8_lc56",
+    "name": "LearningCurve Module 56: Biomedical Therapies & Preventing Disorders",
+    "course": "PSYC-1110E - SP 2026",
+    "dueDate": "2026-05-08T12:59",
+    "type": "assignment",
+    "link": "https://achieve.macmillanlearning.com/courses/7rp6g5/mycourse",
+    "hints": "Achieve \u2192 Week 8 assignments",
+    "notes": "3 pts",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_disc_w4",
+    "name": "Week 4 Discussion Forum",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-04-06T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 4. Topic: Social Construction of Reality. Why do people believe things without evidence? How do family/media/friends shape beliefs? Give a real-life example of a false belief. Min 1 paragraph (5-7 sentences). Reply to 1 classmate.",
+    "notes": "20 pts. Post + reply to 1 classmate. Agree/disagree, add perspective, ask a question.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_exam2",
+    "name": "Exam 2",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-04-06T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Assignments \u2192 Exam 2. Chapters 3-6. Use textbook and notes.",
+    "notes": "60 pts. Covers Chapters 3-6. Open book/open note. Review lectures, readings, discussions.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_disc_w5",
+    "name": "Week 5 Discussion Forum",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-04-13T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 5. Topic: Positivity & Encouragement. Share an inspirational quote that motivates you. Explain why it inspires you. Optional: share encouraging words for classmates.",
+    "notes": "20 pts. Post + reply to 1 classmate. Lighter week \u2014 motivational discussion.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_exam3",
+    "name": "Exam 3",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-04-13T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Exams. Worth 65 pts.",
+    "notes": "65 pts. Review all remaining material. Use textbook and notes.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_disc_w6",
+    "name": "Week 6 Discussion Forum",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-04-20T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 6. Topic: Social Class & Life Chances. Does social class affect opportunities? Give an example of more/fewer opportunities based on background. Can people overcome these walls? Min 1 paragraph (5-7 sentences). Reply to 1 classmate.",
+    "notes": "20 pts. Post + reply to 1 classmate. Relate, add example, encourage classmate.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_read_ch6_7",
+    "name": "Read Chapters 6 & 7 + Watch Lectures",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-04-23T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Content \u2192 Week 6 lectures. Watch Deviance and Crime videos + PowerPoint.",
+    "notes": "Ch 6 (Deviance & Crime) and Ch 7. Review PowerPoints provided by instructor.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_disc_w7",
+    "name": "Week 7 Discussion Forum",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-04-27T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 7. Topic: Income Inequality. Watch the video first! What stood out? Do people start with same opportunities? How does social class affect life chances? Min 1 paragraph (5-7 sentences). Reply to 1 classmate.",
+    "notes": "20 pts. Post + reply to 1 classmate. Watch video first, then respond.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Watch Video",
+        "done": false
+      },
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_disc_w8_ec",
+    "name": "Week 8 Discussion \u2014 Social Norms Changing",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-05-04T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Week 8. Topic: Changing social norms. List 2 behaviors acceptable now but frowned upon 5-10 years ago. Why are they more accepted? Talk with a parent/grandparent about changes they noticed. Min 1 paragraph (5-7 sentences). Reply to 1 classmate.",
+    "notes": "20 pts. Post + reply to 1 classmate.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_movie_final",
+    "name": "Final \u2014 Movie Response Paper",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-05-07T23:59",
+    "type": "project",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Movie Response Assignment. Choose ONE: Where to Invade Next, Inequality for All, or Sicko.",
+    "notes": "120 pts \u2014 BIGGEST GRADE. 1.5-3 pages, double-spaced, 12pt font, title page, normal margins.\n3 PARTS:\nPart 1 (1-4 paragraphs): Summarize the documentary. Clearly identify which one.\nPart 2 (2-4 paragraphs): Connect movie to 2 readings from textbook. Identify the 2 readings/topics.\nPart 3 (1-2 paragraphs): Reflective independent thought stimulated by the video.\nMUST include reference page with 3 acceptable sources. Cite ALL sources or automatic F.\nMovie choices: Where to Invade Next, Inequality for All, or Sicko (2007).\nEncouraged to watch the documentary more than once.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_watch_ch45",
+    "name": "Watch Ch 4 & 5 Lectures + Videos",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-04-09T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Content \u2192 Week 4 lectures. Social Interaction (Ch 4) and Social Groups (Ch 5) PowerPoints.",
+    "notes": "Watch lecture videos and review PowerPoints for Chapters 4 & 5.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_ec_deviance",
+    "name": "Extra Credit Discussion \u2014 Deviance",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-05-07T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Extra Credit. Topic: How is deviance socially constructed? What does it mean that deviance is relative?",
+    "notes": "EXTRA CREDIT. Worth doing for grade boost!",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_ec_desensitization",
+    "name": "Extra Credit Discussion \u2014 Desensitization",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-05-07T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Extra Credit. Watch video first! Has violent/sexual content desensitized people? Does media influence what's acceptable? Example of something once shocking now normal? Min 1 paragraph (5-7 sentences).",
+    "notes": "EXTRA CREDIT. Worth doing for grade boost!",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Watch Video",
+        "done": false
+      },
+      {
+        "label": "Initial Post",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_soci_ec_brain_breaks",
+    "name": "Extra Credit \u2014 Brain Breaks",
+    "course": "SOCI-1110E - SP 2026",
+    "dueDate": "2026-05-07T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Assignments \u2192 Extra Credit Brain Breaks.",
+    "notes": "EXTRA CREDIT. Easy points \u2014 do it!",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_disc4",
+    "name": "Discussion #3",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-04-15T12:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Discussion #3. First post due FRIDAY, reply to classmate by following TUESDAY.",
+    "notes": "22 pts.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post (Fri)",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_aha4",
+    "name": "Aha Moment \u2014 Week 4",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-04-10T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussions \u2192 Aha Moments. Post your Aha moment for this week.",
+    "notes": "8 pts. Share something that connected with you from the course content.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_concert1",
+    "name": "Concert Review #1 - due April 17th",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-04-18T23:59",
+    "type": "project",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Learning Modules \u2192 Week 5 \u2192 More Details for Concert Review guidelines. Review live music (in-person or online) for content, genre, style using music vocabulary.",
+    "notes": "50 pts. Assigned concert. Describe experience using course content and music vocabulary.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_mmpp_draft1",
+    "name": "MMPP (first draft)",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-04-18T23:59",
+    "type": "project",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 MMPP assignments. Submit first draft of your Multi-media Presentation Project (6-9 PPT slides).",
+    "notes": "5 pts. PowerPoint slides on your chosen music topic. APA format for references.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_aha5",
+    "name": "Aha Moment \u2014 Week 5",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-04-17T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussions \u2192 Aha Moments.",
+    "notes": "8 pts. No discussion this week \u2014 focus on Concert Review and MMPP draft.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_mmpp_draft2",
+    "name": "MMPP (second draft)",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-04-25T23:59",
+    "type": "project",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 MMPP assignments. Submit second draft based on instructor feedback.",
+    "notes": "5 pts. Revise based on first draft feedback.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_mmpp_final",
+    "name": "MMPP (final draft) - with audio",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-05-02T23:59",
+    "type": "project",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 MMPP assignments. Submit FINAL draft with AUDIO recording. 6-9 PowerPoint slides, APA format.",
+    "notes": "100 pts \u2014 BIGGEST PROJECT GRADE. Must include audio or you lose Final Discussion points (40\u219220). APA citations required.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_aha7",
+    "name": "Aha Moment \u2014 Week 7",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-05-01T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussions \u2192 Aha Moments.",
+    "notes": "8 pts.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_concert2",
+    "name": "Concert Review #2",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-05-02T23:59",
+    "type": "project",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Concert Review. YOUR CHOICE of live music (in-person or recorded live). Use course content and music vocabulary.",
+    "notes": "50 pts. Free choice concert. Review for content, genre, style, contribution.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_final_exam",
+    "name": "EXAM #4 FINAL EXAM",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-05-07T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Exams \u2192 Final Exam. Opens Tuesday, closes Thursday. Study guide Monday. Open book/open note, NOT timed. NOT comprehensive \u2014 only last quarter.",
+    "notes": "100 pts. Last quarter only (Ch 26-34). Study guide in Learning Modules.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_final_disc",
+    "name": "Final Discussion \u2014 The Gallery (2 posts)",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-05-08T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussion Board \u2192 Final Discussion (The Gallery). TWO posts required: one assigned review + one free choice review of classmate MMPP presentations.",
+    "notes": "40 pts (20 per post). Must have submitted MMPP final with audio to earn full 40 pts. Otherwise max 20 pts (free choice only).",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Assigned Review Post",
+        "done": false
+      },
+      {
+        "label": "Free Choice Review Post",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_aha8",
+    "name": "Aha Moment \u2014 Week 8",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-05-08T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu/webapps/blackboard/content/launchLink.jsp?course_id=&tool_id=_25_1&tool_type=TOOL&mode=view&mode=reset",
+    "hints": "Course \u2192 Discussions \u2192 Aha Moments.",
+    "notes": "8 pts. LAST ONE!",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_vision_board",
+    "name": "Vision Board",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-03-27T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Assignments \u2192 Vision Board.",
+    "notes": "20 pts.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_success_plan",
+    "name": "A Plan of Action for Success in MUSC1130",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-03-27T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Assignments \u2192 Semester Success Plan.",
+    "notes": "28 pts.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_musc_mmpp_topic",
+    "name": "MMPP Topic - due April 10th",
+    "course": "MUSC-1130E - SP 2026",
+    "dueDate": "2026-04-10T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 MMPP \u2192 Topic selection. Must meet live with instructor to choose topic before moving forward.",
+    "notes": "5 pts. Schedule live meeting with Dr. Mathews to select topic.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch3_hw",
+    "name": "Chapter 3 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-08T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 3.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_disc_data",
+    "name": "Data in the News Discussion \u2014 Interpreting Visualizations",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-09T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Week 4 \u2192 Data in the News Discussion. Find a recent article/infographic/data visualization about a real-world topic (economics, sports, polls, etc).",
+    "notes": "Post must include: 1) Link or screenshot of visualization, 2) Explain it \u2014 what type of chart, what data, what trends, 3) Analyze \u2014 conclusions, biases, misleading aspects?, 4) Reflect \u2014 why you picked it, why stats matter. Reply to 2 classmates.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Initial Post",
+        "done": false
+      },
+      {
+        "label": "Reply 1",
+        "done": false
+      },
+      {
+        "label": "Reply 2",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch41_hw",
+    "name": "Chapter 4.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-10T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 4.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch42_hw",
+    "name": "Chapter 4.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-12T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 4.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch51_hw",
+    "name": "Chapter 5.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-14T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 5.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch52_hw",
+    "name": "Chapter 5.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-16T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 5.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch53_hw",
+    "name": "Chapter 5.3 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-18T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 5.3.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_test_ch35",
+    "name": "Ch 3-5 Test",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-20T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Tests \u2192 Ch 3-5 Test. Covers Chapters 3, 4, and 5.",
+    "notes": "Major test \u2014 review all Ch 3-5 homework first.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch61_hw",
+    "name": "Chapter 6.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-21T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 6.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch62_hw",
+    "name": "Chapter 6.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-23T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 6.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch63_hw",
+    "name": "Chapter 6.3 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-25T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 6.3.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_test_ch6",
+    "name": "Chapter 6 Test",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-27T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Tests \u2192 Chapter 6 Test.",
+    "notes": "Review all Ch 6 homework first.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch71_hw",
+    "name": "Chapter 7.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-28T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 7.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch72_hw",
+    "name": "Chapter 7.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-04-30T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 7.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch73_hw",
+    "name": "Chapter 7.3 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-01T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 7.3.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch74_hw",
+    "name": "Chapter 7.4 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-02T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 7.4.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_test_ch7",
+    "name": "Chapter 7 Test",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-04T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Tests \u2192 Chapter 7 Test.",
+    "notes": "Review all Ch 7 homework first.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch91_hw",
+    "name": "Chapter 9.1 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-05T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 9.1.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_ch92_hw",
+    "name": "Chapter 9.2 Homework",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-06T23:59",
+    "type": "assignment",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Homework \u2192 Chapter 9.2.",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_disc_looking_back",
+    "name": "Looking Back at Statistics Discussion",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-06T23:59",
+    "type": "discussion",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Week 8 \u2192 Looking Back at Statistics. Personal reflection \u2014 NO replies needed.",
+    "notes": "4-6 sentences. How has your view of statistics changed? What surprised you or was more useful than expected? How might you use statistics going forward? No replies required \u2014 just honest reflection.",
+    "completed": false,
+    "subtasks": [
+      {
+        "label": "Reflection Post",
+        "done": false
+      }
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "luna_math_final_test",
+    "name": "Final Test",
+    "course": "MATH-1350E - SP 2026",
+    "dueDate": "2026-05-08T23:59",
+    "type": "quiz",
+    "link": "https://bb.luna.edu",
+    "hints": "Course \u2192 Tests \u2192 Final Test. Comprehensive final exam.",
+    "notes": "FINAL EXAM. Review all chapters and tests.",
+    "completed": false,
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  }
+]
